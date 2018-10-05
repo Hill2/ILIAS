@@ -383,7 +383,7 @@ assessment#:#assSingleChoice#:#Multiple-choice vragen (één antwoord)
 assessment#:#assTextQuestion#:#Open tekst vraag
 assessment#:#assTextSubset#:#Tekst subset vraag
 assessment#:#ass_completion_by_submission#:#Completed by Submission
-assessment#:#ass_completion_by_submission_info#:#If enabled, the submission of at least one file causes the completion of this question by granting the maximum score for this question. The score could be manually changed later. Switching this setting does not effect already submitted solutions.
+assessment#:#ass_completion_by_submission_info#:#Indien ingeschakeld, het indienen van ten minste 1 bestand leidt tot de voltooing van deze vraag door de maximale score voor deze vraag te geven. De score kan later handmatig worden aangepast. Schakelen tussen deze opties heeft geen effect op eerder ingevoerde antwoorden.
 assessment#:#ass_create_export_file#:#Een export bestand aanmaken
 assessment#:#ass_create_export_test_archive#:#Aanmaken van een Test Archive bestand
 assessment#:#ass_create_export_test_results#:#Exporteer toets resultaten
@@ -479,7 +479,7 @@ assessment#:#edit_page#:#Pagina wijzigen
 assessment#:#edit_question#:#Wijzigen vraag
 assessment#:#edit_test_questions#:#Wijzig toets vragen
 assessment#:#element_height#:#Minimum Height
-assessment#:#element_height_info#:#This is the minimum height in pixels for term and definition/picture items during the toets output.
+assessment#:#element_height_info#:#Dit is de minimum hoogte in pixels voor term en defenitie/afbeelding items gedurende de toets output.
 assessment#:#enable_examview#:#Tonen in vorm van examen
 assessment#:#enable_examview_desc#:#De toets zal worden gepresenteerd in de vorm van een examen.
 assessment#:#end_tag#:#Eindlabel
@@ -487,7 +487,7 @@ assessment#:#enlarge#:#Vergroot
 assessment#:#enter_anonymous_code#:#Voer anonieme toegangscode in
 assessment#:#enter_enough_positive_points#:#Het maximaal haalbare punten moet groter zijn dan 0! Voer voldoende positieve punten in voor de antwoorden
 assessment#:#enter_valid_values#:#Geldige waarde invoeren. Karakters worden geëvalueerd als incorrect!
-assessment#:#errFormulaQuestion#:#Een Formula-vraag bavt incorrect informatie!!
+assessment#:#errFormulaQuestion#:#Een Formula-vraag bevat incorrecte informatie!!
 assessment#:#errors#:#Fouten
 assessment#:#errors_section#:#Fouten Data
 assessment#:#errortext#:#Fouttekst
@@ -507,13 +507,13 @@ assessment#:#err_unit_in_variables#:#De eenheid kan niet worden verwijderd. Het 
 assessment#:#err_unit_is_baseunit#:#De eenheid kan niet worden verwijderd. Het wordt gebruikt als basis voor andere eenheden.
 assessment#:#err_wrong_categoryname#:#De categorie bestaat reeds.
 assessment#:#err_wrong_rating_advanced#:#Controleer dat de toegevoegde geavanceerde beoordelingsinstelling gelijk is aan 100 percent
-assessment#:#essay_scoring_mode_keyword_relation_all#:#Automatic Scoring with Keywords on Finding ALL
+assessment#:#essay_scoring_mode_keyword_relation_all#:#Automatische scoring met sleutelwoorden bij 'ZOEK ALLES'.
 assessment#:#essay_scoring_mode_keyword_relation_all_desc#:#De punten worden automatisch toegekend, als alle sleutelwoorden worden gevonden.
-assessment#:#essay_scoring_mode_keyword_relation_any#:#Automatic Scoring with Keywords on Finding ANY
-assessment#:#essay_scoring_mode_keyword_relation_one#:#Automatic Scoring with Keywords on Finding ONE
+assessment#:#essay_scoring_mode_keyword_relation_any#:#Automatische scoring met sleutelwoorden bij 'ZOEK IEDER'
+assessment#:#essay_scoring_mode_keyword_relation_one#:#Automtische scoring met sleutelwoorden bij 'ZOEK EEN'.
 assessment#:#essay_scoring_mode_keyword_relation_one_desc#:#De punten worden automatisch toegekend, als minstens één sleutelwoord is gevonden.
 assessment#:#essay_scoring_mode_without_keywords#:#Geen Automatische Scoring
-assessment#:#essay_scoring_mode_without_keywords_desc#:#No points are granted unless the tutor's manual scoring.
+assessment#:#essay_scoring_mode_without_keywords_desc#:#Geen punten worden toegekent tenzij handmatig door de docentl.
 assessment#:#eval_all_users#:#Evaluatie voor alle gebruikers
 assessment#:#eval_legend_link#:#Raadpleeg de legende voor de betekenis van de symbolen in de kolomkoppen.
 assessment#:#examid_in_test_pass#:#Tonen Examennummer
@@ -533,11 +533,11 @@ assessment#:#factor#:#Factor
 assessment#:#failed_official#:#mislukt
 assessment#:#failed_short#:#mislukt
 assessment#:#false#:#Fout
-assessment#:#feedback_all#:#Show answer specific feedback for all answers.
+assessment#:#feedback_all#:#Toon antwoord specifieke feedback voor alle antwoorden.
 assessment#:#feedback_answers#:#Feedback voor elk antwoord van de vraag
 assessment#:#feedback_checked#:#Toon antwoord-specifieke feedback voor alle gekozen/geselecteerde antwoorden
 assessment#:#feedback_complete_solution#:#Juiste oplossing
-assessment#:#feedback_generic#:#Common Solution Feedback
+assessment#:#feedback_generic#:#Algemene Oplossing Feedback
 assessment#:#feedback_incomplete_solution#:#Minstens één antwoord is niet juist
 assessment#:#feedback_setting#:#Modus van antwoord-specifieke feedback
 assessment#:#fileDownload#:#Bestand download
@@ -630,13 +630,13 @@ assessment#:#matching_shuffle_terms_definitions#:#Beide (Termen en Definities)
 assessment#:#matching_type#:#'Matching' Vraag Subtype
 assessment#:#material#:#Materiaal
 assessment#:#material_file#:#Materiaal bestand
-assessment#:#maxchars#:#Maximum number of characters
+assessment#:#maxchars#:#Maximale aantal karakters
 assessment#:#maximum_nr_of_tries_reached#:#Je hebt het maximum aantal pogingen voor deze toets bereikt. Je kunt de toets niet meer opnieuw maken.
 assessment#:#maximum_points#:#Maximum behaalbare punten
-assessment#:#maxsize#:#Maximum file upload size
+assessment#:#maxsize#:#Maximum file upload hoeveelheid
 assessment#:#maxsize_info#:#Vul in de maximale hoeveelheid bytes die wordt toegestaan voor bestand-uploads. Als je dit vak blanco laat, wordt de maximale grootte van deze installatie gekozen.
 assessment#:#min_percentage_ne_0#:#Je moet een minimum percentage opgeven van ministens 0 procent! Het punten schema is niet opgeslaan
-assessment#:#misc#:#Misc Options
+assessment#:#misc#:#Misc Opties
 assessment#:#msg_circle_added#:#Cirkel toegevoegd
 assessment#:#msg_deleted_export_files#:#Exportbestand(en) verwijderd
 assessment#:#msg_number_of_terms_too_low#:#Het aantal termen moet groter of gelijk zijn aan het aantal definities.
